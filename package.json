@@ -1,0 +1,22 @@
+{
+    "name": "henosia",
+    "version": "1.0.1",
+    "description": "Robot Officiel du serveur Henosia",
+    "main": "main.js",
+    "dependencies": {
+      "discord.js": "^11.2.1",
+      "express": "^4.16.2",
+      "lowdb": "^1.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": ""
+    },
+    "keywords": [
+      "world",
+      "craft",
+      "bot"
+    ],
+    "author": "Spikyz",
+    "license": "ISC"
+  }
